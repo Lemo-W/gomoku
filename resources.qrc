@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>icons/wzq.ico</file>
+        <file>icons/4.png</file>
+        <file>icons/8.png</file>
+        <file>icons/page1.qrc</file>
+        <file>icons/page2.qrc</file>
+    </qresource>
+</RCC>
